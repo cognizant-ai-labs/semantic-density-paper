@@ -1,5 +1,5 @@
 License
-The following license governs the use of semantic density Software in academic
+The following license governs the use of semantic-density-paper Software in academic
 and educational environments. Commercial use requires a commercial license from
 Cognizant Technology Solutions Corp, www.cognizant.com.
 
@@ -7,21 +7,22 @@ ACADEMIC PUBLIC LICENSE
 Written by Andras Varga (license text is in public domain)
 Adapted by Karl Mutch (license text is in public domain)
 Adapted by Garrett Bingham (license text is in public domain)
+Adapted by Xin Qiu (license text is in public domain)
 
 Preamble
-This license contains the terms and conditions of using AutoInit Software
+This license contains the terms and conditions of using semantic-density-paper Software
 in noncommercial settings: at academic institutions for teaching and research
 use, and at non-profit research organizations. You will find that this license
-provides noncommercial users of AutoInit Software with rights that are
+provides noncommercial users of semantic-density-paper Software with rights that are
 similar to the well-known GNU General Public License, yet it retains the
-possibility for AutoInit Software authors to financially support the
+possibility for semantic-density-paper Software authors to financially support the
 development by selling commercial licenses. In fact, if you intend to use
-AutoInit Software in a “for-profit” environment, where research is
+semantic-density-paper Software in a “for-profit” environment, where research is
 conducted to develop or enhance a product, is used in a commercial service
-offering, or when a commercial company uses AutoInit Software to
+offering, or when a commercial company uses semantic-density-paper Software to
 participate in a research project (for example government-funded or EU-funded
 research projects), then you need to obtain a commercial license for
-AutoInit Software. In that case, please contact the Author to inquire
+semantic-density-paper Software. In that case, please contact the Author to inquire
 about commercial licenses.
 
 What are the rights given to noncommercial users? Similarly to GPL, you have the
@@ -31,11 +32,11 @@ Also similarly to the GPL, if you distribute verbatim or modified copies of
 this software, they must be distributed under this license.
 
 By modeling the GPL, this license guarantees that you’re safe when using
-AutoInit Software in your work, for teaching or research. This license
-guarantees that AutoInit Software will remain available free of charge
-for nonprofit use. You can modify AutoInit Software to your purposes,
+semantic-density-paper Software in your work, for teaching or research. This license
+guarantees that semantic-density-paper Software will remain available free of charge
+for nonprofit use. You can modify semantic-density-paper Software to your purposes,
 and you can also share your modifications. Even in the unlikely case of the
-authors abandoning AutoInit Software entirely, this license permits
+authors abandoning semantic-density-paper Software entirely, this license permits
 anyone to continue developing it from the last release, and to create further
 releases under this license.
 
@@ -51,7 +52,7 @@ modification follow.
 TERMS AND CONDITIONS FOR USE, COPYING, DISTRIBUTION AND MODIFICATION
 
 Definitions
-“Program” means a copy of AutoInit Software, which is said to be
+“Program” means a copy of semantic-density-paper Software, which is said to be
 distributed under this Academic Public License.
 
 “Work based on the Program” means either the Program or any derivative work
